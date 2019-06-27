@@ -7,5 +7,4 @@ Test
 -- sklivvz
 Mario
 Marco
-Alberto
 Fabio
