@@ -1,7 +1,2 @@
 il mio file di testo
 rinnovato per il nuovo push
-
-nuove righe , nuove righe
-
-
-aggiunta per il nuovo branch
