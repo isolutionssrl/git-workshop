@@ -10,7 +10,7 @@ Marco
 Fabio
 Maro
 Ivan
-
+riga aggiunta per pull -r
 
 Marco Marco
 
