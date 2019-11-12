@@ -10,8 +10,24 @@ Marco
 Fabio
 Maro
 Ivan
+riga aggiunta per pull -r
+
+Marco Marco
 
 Nicodemo
 
 Marco Marco
 
+
+
+
+
+
+
+
+
+
+
+
+Se scrivo qui non tocco le modifiche degli altri
+Bau
