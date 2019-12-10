@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 wentu culo
 dgfkljgflgfjdglkfjgfkljfkdljgfdklgjkl
 diodsgjrig9prtiohjtgnfguuynjhiogmbghnry 
 coseacaso
+=======
+tyutyutyutyuyutyutyutyu
+>>>>>>> commit test
