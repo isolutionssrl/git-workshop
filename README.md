@@ -16,10 +16,6 @@ Ivan
 riga aggiunta per pull -r
 
 Marco Marco
-
-Nicodemo
-
-Marco Marco
 Lilla
 
 Nicodemo
