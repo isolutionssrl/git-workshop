@@ -22,9 +22,6 @@ Nicodemo
 Marco Marco
 Lilla
 
-Nicodemo
-
-Marcode
 
 Roberto
 
