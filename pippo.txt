@@ -1,11 +1,11 @@
-<<<<<<< HEAD
 wentu culo
+wentu culo
+wentu
+wentu
 dgfkljgflgfjdglkfjgfkljfkdljgfdklgjkl
 diodsgjrig9prtiohjtgnfguuynjhiogmbghnry 
 coseacaso
-=======
 tyutyutyutyuyutyutyutyu
->>>>>>> commit test
 
 What is Lorem Ipsum?
 
@@ -13,3 +13,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 urca
 Ciao sono Chester
+wentu
+scritto da Wentu
+scritto da orc su feature branch

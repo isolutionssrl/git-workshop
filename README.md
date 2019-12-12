@@ -7,11 +7,6 @@ Modifica di prova
 Modifica 2
 Test
 
--- sklivvz
-Mario
-Marco
-Fabio
-Maro
 Ivan
 riga aggiunta per pull -r
 
