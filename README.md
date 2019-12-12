@@ -2,6 +2,9 @@
  
 Git e github, questi sconosciuti!
 
+Se tutti cambiamo in posti diversi non ci saranno conflitti.
+Modifica di prova
+Modifica 2
 Test
 
 -- sklivvz
@@ -17,14 +20,12 @@ Marco Marco
 Nicodemo
 
 Marco Marco
-
-
-Nicodemo
+Lilla
 
 
 Roberto
 
-
+Ciao
 Maddalena
 Giorgia
 
@@ -43,3 +44,6 @@ Bau
 
 Chiara
 altro cambiamento di madda
+
+
+Aggiunta nuovo commento, Enrico
