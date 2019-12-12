@@ -7,11 +7,6 @@ Modifica di prova
 Modifica 2
 Test
 
--- sklivvz
-Mario
-Marco
-Fabio
-Maro
 Ivan
 riga aggiunta per pull -r
 
@@ -49,4 +44,9 @@ altro cambiamento di madda
 Aggiunta nuovo commento, Enrico
 
 
+
 Prova Giova
+
+Feature branch bersi
+test commit feature bersi
+
