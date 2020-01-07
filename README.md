@@ -44,5 +44,3 @@ Bau
 Chiara
 altro cambiamento di madda
 
-
-ciao
